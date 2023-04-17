@@ -3,7 +3,8 @@ DesafiosBancoPANJavaDeveloper
 
 ## OBJETIVO
 
-    Praticar o conceito fundamental dos pilares da Orientação a Objetos em Java devidamente formalizados: Abstração, Encapsulamento, Herança e Polimorfismo.
+    Praticar o conceito fundamental dos pilares da Orientação a Objetos em Java devidamente formalizados: 
+    Abstração, Encapsulamento, Herança e Polimorfismo.
 
 ## 🚀 Sobre mim
  *Olá, me chamo Aureana!👋 Eu sou uma pessoa desenvolvedora full-stack, apaixonada por tecnologia!* 😊
